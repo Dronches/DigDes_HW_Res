@@ -1,0 +1,7 @@
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFClientWordCounter\WCFClientWordCounter\bin\Debug\WCFClientWordCounter.exe.config
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFClientWordCounter\WCFClientWordCounter\bin\Debug\WCFClientWordCounter.exe
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFClientWordCounter\WCFClientWordCounter\bin\Debug\WCFClientWordCounter.pdb
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFClientWordCounter\WCFClientWordCounter\obj\Debug\WCFClientWordCounter.csproj.AssemblyReference.cache
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFClientWordCounter\WCFClientWordCounter\obj\Debug\WCFClientWordCounter.csproj.CoreCompileInputs.cache
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFClientWordCounter\WCFClientWordCounter\obj\Debug\WCFClientWordCounter.exe
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFClientWordCounter\WCFClientWordCounter\obj\Debug\WCFClientWordCounter.pdb
