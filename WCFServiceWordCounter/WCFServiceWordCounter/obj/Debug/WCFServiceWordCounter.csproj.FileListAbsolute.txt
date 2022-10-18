@@ -1,0 +1,8 @@
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFServiceWordCounter\WCFServiceWordCounter\bin\Debug\WCFServiceWordCounter.exe.config
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFServiceWordCounter\WCFServiceWordCounter\bin\Debug\WCFServiceWordCounter.exe
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFServiceWordCounter\WCFServiceWordCounter\bin\Debug\WCFServiceWordCounter.pdb
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFServiceWordCounter\WCFServiceWordCounter\obj\Debug\WCFServiceWordCounter.csproj.AssemblyReference.cache
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFServiceWordCounter\WCFServiceWordCounter\obj\Debug\WCFServiceWordCounter.csproj.CoreCompileInputs.cache
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFServiceWordCounter\WCFServiceWordCounter\obj\Debug\WCFServiceWordCounter.exe
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFServiceWordCounter\WCFServiceWordCounter\obj\Debug\WCFServiceWordCounter.pdb
+D:\Projects\7_semestr\Digital Design\HWResult3\WCFServiceWordCounter\WCFServiceWordCounter\obj\Debug\WCFServiceWordCounter.csproj.CopyComplete

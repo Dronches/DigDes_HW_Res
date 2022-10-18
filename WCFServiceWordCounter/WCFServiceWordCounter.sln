@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWordCounter", "WCFServiceWordCounter\WCFServiceWordCounter.csproj", "{055861CE-EE17-4A53-95D4-FCCE389D0CD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{055861CE-EE17-4A53-95D4-FCCE389D0CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055861CE-EE17-4A53-95D4-FCCE389D0CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055861CE-EE17-4A53-95D4-FCCE389D0CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055861CE-EE17-4A53-95D4-FCCE389D0CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F369E82B-DE86-43DF-B53F-02F60F25C28F}
+	EndGlobalSection
+EndGlobal
